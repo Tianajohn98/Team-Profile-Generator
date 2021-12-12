@@ -8,7 +8,7 @@ describe("Intern class", () => {
 
             name: "int",
             id: 3,
-            emai: "howdy@howdy.com",
+            email: "howdy@howdy.com",
             school: "TheSchoolOfLife"
         };
         const int1 = new Intern("int", 3, "howdy@howdy.com", "TheSchoolOfLife");

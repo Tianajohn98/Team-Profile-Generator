@@ -18,7 +18,7 @@ function kickPrompt() {
     return inquirer.prompt([
         {
             type: "list",
-            message: "Choose the employee work position",
+            message: "Choose the employee work role",
             name: "workrole",
             choices: ["Manager", "Engineer", "Intern"]
         }
@@ -59,7 +59,7 @@ function kickManager() {
         // inquirer prompt that allows user to choose to input a new employee after they finish this one or choose none if they are done
         {
             type: "list",
-            message: "Choose type next employee role",
+            message: "Choose type of next employee",
             name: "workroleNew",
             choices: ["Manager", "Engineer", "Intern", "None"]
         }

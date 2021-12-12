@@ -14,6 +14,6 @@ describe("Engineer class", () => {
       }
 
      const eng1 = new Engineer("eng" , 2, "hey@hey.com", "@eng");
-     expect(engineer1).toEqual(eng1);
+     expect(Engineer1).toEqual(eng1);
     });
 })
