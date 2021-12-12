@@ -9,3 +9,4 @@ To use this application the user has to clone the repository, and run npm instal
 
 ### Usage 
 
+https://watch.screencastify.com/v/hDtAJDdopncRIRRwmBdB
